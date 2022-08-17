@@ -17,7 +17,7 @@ source=("https://github.com/opengribs/XyGrib/archive/v$pkgver.tar.gz" "xygrib.in
 sha1sums=('8e3431ed6a5ef114d77ac57029129a26a381f696'
           '97eec7e40bd2d4f44986ffbf5096ac4ba37ebbfe'
           '1fa4cf6b72863c9f33a80946d9f4afe7f855df6a'
-          '9fc7839f3fa38b7855ee5a165f7148162aba39bf'
+          '56b94f60f4131c8865cd25f22b90472ba21f206e'
           '1af59e1fe5e07eb7cc1a3f9a52b3989a92bfd8e7')
 
 prepare() {
